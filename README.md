@@ -29,9 +29,12 @@ cd nixie-clock
 # Open index.html in a browser
 ```
 
-## Live Demo
 
-(If deployed, add link here)
+## Live Preview
+Click 👉 [here](https://naveen-kumawat.github.io/Tube-Clock/) to view the live demo 😍.
+
+## Result Images 
+![Tube Clock ](https://github.com/naveen-kumawat/Tube-Clock/assets/63699592/36424126-f06f-4053-9353-c727fafaf89f)
 
 ## Customization
 
