@@ -8,7 +8,7 @@ A visually stunning digital clock inspired by vintage Nixie tube displays. This 
 - Smooth animations and glowing effects
 - Supports 12-hour and 24-hour formats
 - Customizable colors and styles
-
+ 
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript (or React if applicable)
