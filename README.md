@@ -6,7 +6,7 @@ A visually stunning digital clock inspired by vintage Nixie tube displays. This 
 
 - Real-time digital clock with a Nixie tube aesthetic      
 - Smooth animations and glowing effects 
-- Supports 12-hour and 24-hour formats  
+- Supports 12-hour and 24-hour formats   
 - Customizable colors and styles
     
 ## Technologies Used
