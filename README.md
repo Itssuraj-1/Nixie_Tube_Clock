@@ -11,7 +11,7 @@ A visually stunning digital clock inspired by vintage Nixie tube displays. This 
     
 ## Technologies Used
   
-- **Frontend**: HTML, CSS, JavaScript (or React if applicable)
+- **Frontend**: HTML, CSS, JavaScript (or React if applicable) 
 - **Animation**: CSS/JS animations for realistic glowing effects
 - **Backend (if applicable)**: Node.js for time synchronization
 
